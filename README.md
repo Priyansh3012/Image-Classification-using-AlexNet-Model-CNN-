@@ -1,6 +1,6 @@
 # Image-Classification-using-AlexNet-Model-CNN-
 
-* This project demonstrates the construction and optimization of an image classification model using AlexNet. Through systematic hyperparameter tuning and careful analysis of training dynamics, overfitting was mitigated, resulting in a model that performs well on both training and unseen data. Despite the limited dataset, the model achieved a reasonable validation accuracy and correctly predicted new images, showcasing the robustness and potential of CNNs in image classification tasks. Future work could involve expanding the dataset and exploring additional regularization techniques to further enhance model performance.
+This project demonstrates the construction and optimization of an image classification model using AlexNet. Through systematic hyperparameter tuning and careful analysis of training dynamics, overfitting was mitigated, resulting in a model that performs well on both training and unseen data. Despite the limited dataset, the model achieved a reasonable validation accuracy and correctly predicted new images, showcasing the robustness and potential of CNNs in image classification tasks. Future work could involve expanding the dataset and exploring additional regularization techniques to further enhance model performance.
 
 ## Tools and Libraries Used:
 1. Python (programming language)

@@ -62,15 +62,3 @@ Optimal parameters identified:
 
 * This project successfully demonstrated the construction and optimization of an image classification model using AlexNet. By systematically tuning hyperparameters and addressing overfitting, the model achieved a validation accuracy of 61% despite the limited dataset size. The final model accurately predicted new, unseen images, showcasing its effectiveness. Future improvements could include expanding the dataset and exploring additional regularization techniques to further enhance performance. This project highlights the power and potential of CNNs in image classification tasks, providing a solid foundation for more advanced applications.
 
-
-
-
-
-
-
-
-
-
-
-
-ChatG

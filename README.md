@@ -4,9 +4,12 @@
 
 ## Tools and Libraries Used:
 1. Python (programming language)
-2. OpenCV (for image processing)
-3. TensorFlow and Keras (for building and training the model)
-4. Keras Tuner (for hyperparameter tuning)
+2. Pandas
+3. Numpy
+4. Matplotlib
+5. OpenCV (for image processing)
+6. TensorFlow and Keras (for building and training the model)
+7. Keras Tuner (for hyperparameter tuning)
  
 ## Techniques:
  * Label Encoding
@@ -55,7 +58,7 @@ Optimal parameters identified:
 * **Overfitting:** Initial training revealed overfitting after 17 epochs, which was corrected by reducing the number of epochs.
 * **Model Performance:** The final model, after tuning and addressing overfitting, achieved a validation accuracy of 61%, which was constrained by the limited dataset size.
 
-## Conclusion
+## Conclusion:
 
 * This project successfully demonstrated the construction and optimization of an image classification model using AlexNet. By systematically tuning hyperparameters and addressing overfitting, the model achieved a validation accuracy of 61% despite the limited dataset size. The final model accurately predicted new, unseen images, showcasing its effectiveness. Future improvements could include expanding the dataset and exploring additional regularization techniques to further enhance performance. This project highlights the power and potential of CNNs in image classification tasks, providing a solid foundation for more advanced applications.
 

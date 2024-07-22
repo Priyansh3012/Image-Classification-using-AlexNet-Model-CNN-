@@ -48,7 +48,8 @@ Optimal parameters identified:
 * Retrained the model for 17 epochs to mitigate overfitting.
 * Achieved a validation accuracy of 61%.
 
-  ![image](https://github.com/user-attachments/assets/eb7ced20-74b8-4e91-b05e-e856e308148b)
+  ![image](https://github.com/user-attachments/assets/eb7ced20-74b8-4e91-b05e-e856e308148b) ![image](https://github.com/user-attachments/assets/802b6800-6331-4003-940a-328ab2fde8db)
+
 
 
 ## Prediction:

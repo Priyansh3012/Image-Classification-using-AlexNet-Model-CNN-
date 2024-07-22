@@ -3,14 +3,14 @@
 This project demonstrates the construction and optimization of an image classification model using AlexNet. Through systematic hyperparameter tuning and careful analysis of training dynamics, overfitting was mitigated, resulting in a model that performs well on both training and unseen data. Despite the limited dataset, the model achieved a reasonable validation accuracy and correctly predicted new images, showcasing the robustness and potential of CNNs in image classification tasks. Future work could involve expanding the dataset and exploring additional regularization techniques to further enhance model performance.
 
 ## Tools and Libraries Used:
-1. Python (programming language)
-2. Pandas (Data Analysis)
-3. Numpy (for converting OpenCV image tensor to a numpy array)
-4. Matplotlib (for visualisation)
-5. Scikit-Learn (for train test split data , Label Encoding and One Hot Encoding)
-6. OpenCV (for image processing)
-7. TensorFlow and Keras (for building and training the model)
-8. Keras Tuner (for hyperparameter tuning)
+1. **Python** (programming language)
+2. **Pandas** (Data Analysis)
+3. **Numpy** (for converting OpenCV image tensor to a numpy array)
+4. **Matplotlib** (for visualisation)
+5. **Scikit-Learn** (for train test split data , Label Encoding and One Hot Encoding)
+6. **OpenCV** (for image processing)
+7. **TensorFlow and Keras** (for building and training the model)
+8. **Keras Tuner** (for hyperparameter tuning)
  
 ## Techniques:
  * Label Encoding

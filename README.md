@@ -14,13 +14,13 @@ This project demonstrates the construction and optimization of an image classifi
 ## Techniques:
  * Label Encoding
  * One-Hot Encoding
- *  
+    
 ## Key Steps and Methodology:
 
  * Data Preparation:
  * Images were labeled and encoded using label encoding followed by one-hot encoding.
  * OpenCV was used to read and preprocess the images.
- * 
+   
 ## Model Building:
 
 * An initial AlexNet model is build.
@@ -55,6 +55,8 @@ Optimal parameters identified:
 ## Prediction:
 
 * The final model was tested on new unseen images and correctly predicted the classes.
+
+  ![image](https://github.com/user-attachments/assets/a89c14ee-6353-43f1-878c-f1353fd04c5b)
 
 ## Key Findings and Analysis:
 

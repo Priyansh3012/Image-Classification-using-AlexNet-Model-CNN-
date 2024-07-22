@@ -23,8 +23,8 @@ This project demonstrates the construction and optimization of an image classifi
    
 ## Model Building:
 
-* An initial AlexNet model is build.
-* Keras Random Search tuner was utilized to perform hyperparameter tuning.
+* An initial **AlexNet model(CNN)** is build.
+* **Keras Random Search tuner** was utilized to perform hyperparameter tuning.
 
 ## Hyperparameter Tuning:
 

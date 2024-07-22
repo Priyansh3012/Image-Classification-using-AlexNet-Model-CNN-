@@ -4,12 +4,13 @@ This project demonstrates the construction and optimization of an image classifi
 
 ## Tools and Libraries Used:
 1. Python (programming language)
-2. Pandas
-3. Numpy
-4. Matplotlib
-5. OpenCV (for image processing)
-6. TensorFlow and Keras (for building and training the model)
-7. Keras Tuner (for hyperparameter tuning)
+2. Pandas (Data Analysis)
+3. Numpy (for converting OpenCV image tensor to a numpy array)
+4. Matplotlib (for visualisation)
+5. Scikit-Learn (for train test split data , Label Encoding and One Hot Encoding)
+6. OpenCV (for image processing)
+7. TensorFlow and Keras (for building and training the model)
+8. Keras Tuner (for hyperparameter tuning)
  
 ## Techniques:
  * Label Encoding

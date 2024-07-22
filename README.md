@@ -48,6 +48,9 @@ Optimal parameters identified:
 * Retrained the model for 17 epochs to mitigate overfitting.
 * Achieved a validation accuracy of 61%.
 
+  ![image](https://github.com/user-attachments/assets/eb7ced20-74b8-4e91-b05e-e856e308148b)
+
+
 ## Prediction:
 
 * The final model was tested on new unseen images and correctly predicted the classes.
